@@ -4,3 +4,8 @@
 div{
 	ciao sono il css del div
 }
+
+
+h1{
+	ciao sono il css del h1
+}
