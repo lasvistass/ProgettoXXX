@@ -4,3 +4,7 @@
 div{
 	ciao sono il css del div
 }
+
+function saluta(){
+	console.log('HELLO WORLD')
+}
