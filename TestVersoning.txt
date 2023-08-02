@@ -1,1 +1,6 @@
 <div> CIAO SONO UN DIV </div>
+
+
+div{
+	ciao sono il css del div
+}
